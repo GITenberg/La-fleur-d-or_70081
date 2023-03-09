@@ -1,0 +1,46 @@
+_repo: La-fleur-d-or_70081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gobineau, Arthur, comte de
+    aliases:
+    - Gobineau, Joseph Arthur (Comte) de
+    - Gobineau, comte de
+    - De Gobineau, Arthur, comte
+    - Gobineau, A. de (Arthur)
+    - Gobineau, Joseph Arthur, comte de
+    - Gobineau, Arthur de
+    birthdate: 1816
+    deathdate: 1882
+    gutenberg_agent_id: '38659'
+    url: http://www.gutenberg.org/2009/agents/38659
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Arthur_de_Gobineau
+    - https://en.wikipedia.org/wiki/Arthur_de_Gobineau
+description: ''
+gutenberg_issued: '2023-02-20'
+identifiers:
+  gutenberg: '70081'
+language: fr
+pgterms:marc904: https://archive.org/details/sc_0001279268_00000001704158
+pgterms:marc905: 20211128124642gobineau
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aFrance :$bBernard Grasset, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Borgia, Cesare, 1476?-1507'
+- !lcsh 'Michelangelo Buonarroti, 1475-1564'
+- !lcsh 'Italy -- History -- 1492-1559'
+- !lcsh 'Savonarola, Girolamo, 1452-1498'
+- !lcsh 'Julius II, Pope, 1443-1513'
+- !lcsh 'Leo X, Pope, 1475-1521'
+- !lcsh 'Italy -- History -- 15th century'
+- !lcc 'DG'
+- GITenberg
+title: La fleur d'or
+url: http://www.gutenberg.org/ebooks/70081
