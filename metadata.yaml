@@ -1,5 +1,8 @@
 _repo: La-fleur-d-or_70081
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70081-h/images/cover.jpg
 creator:
   author:
     agent_name: Gobineau, Arthur, comte de
@@ -18,6 +21,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Arthur_de_Gobineau
     - https://en.wikipedia.org/wiki/Arthur_de_Gobineau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70081#La-fleur-d-or
 gutenberg_issued: '2023-02-20'
 identifiers:
   gutenberg: '70081'
